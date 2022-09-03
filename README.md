@@ -1,14 +1,11 @@
 # Software - Testing
 
-![alt text](https://vignette.wikia.nocookie.net/terminalmontage/images/c/c0/Kirbo.png/revision/latest/scale-to-width-down/248?cb=20200609234320)  
-Debido al éxito de Sansanito Pokémon, se nos ha solicitado poder crear una pagina web por medio del uso de php y mysql un reproductor de música online capaz de poder administrar cuentas de usuarios y un banco de canciones.
-
 ## Description: 📜
 
 Executing the creation and apliance of requirements and validations for the development of a program in python, using Case Suites and working with a partner to ensure the correct validation.
 This repository stores the process and final results.
 
-### Pre-requisites 📋
+## Pre-requisites 📋
 
 - Python 3.9 or above
 
