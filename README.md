@@ -11,7 +11,7 @@ This repository stores the process and final results.
 
 ## Instalation ⚙️
 
-**I recommend reading before the 2 documents included to understand the context behind the python program**
+**Before start, I recommend reading the 2 documents included to understand the context behind the python program**
 
 Just clone the repo and then start the program by executing:
   py PDS1.py
