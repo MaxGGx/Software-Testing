@@ -56,6 +56,8 @@ def loadBat(battery):
 #Filtra el texto para poder entregar el resultado
 def filterText(text):
     res = ''
+    if len(text) > 250:
+        text = text[0:250]
     for x in text:
         if x not in ['a','A','b','B','c','C','d','D','e','E','f','F','g','G','h','H','i','I','j','J','k','K','l','L','m','M','n','N','o','O','p','P','q','Q','r','R','s','S','t','T','u','U','v','V','w','W','x','X','y','Y','z','Z','1','2','3','4','5','6','7','8','9','0',' ']:
             continue
@@ -84,7 +86,7 @@ def majorMinor(battery):
 #imprime el tamaño del texto almacenado en el espacio de la pila según el formato
 def seeBat(pos, battery):
     if battery[pos] == "":
-        i = (("El texto número", str(pos), "está Vacío\nNo tiene caracteres"))
+        i = " ".join(("El texto número", str(pos), "está Vacío\nNo tiene caracteres"))
         logger(i, tipo = 0)
         return
     else:
@@ -118,8 +120,8 @@ def addText(battery, text):
             break
     if flag:
         while(1):
-            res = input("Texto '",text,"' no ha podido ser añadido, pila esta completa, ¿Desea reemplazar el último espacio de la pila (9) con su nuevo texto?\nTEXTO A REEMPLAZAR:"+battery[-1]+"\n1 - SI\n2 - NO\n>")
             i = " ".join(("Texto '",str(text),"' no ha podido ser añadido, pila esta completa, ¿Desea reemplazar el último espacio de la pila (9) con su nuevo texto?\nTEXTO A REEMPLAZAR:"+str(battery[-1])+"\n1 - SI\n2 - NO\n>"))
+            res = input(i)
             logger(i,tipo=-1)
             logger(res, tipo = 1)
             # 1 = SI
@@ -142,7 +144,7 @@ def delText(battery):
         if battery[x] != "":
             i = " ".join(("TEXTO",str(battery[x]),"ELIMINADO"))
             logger(i, tipo = 0)
-            battery[x] != ""
+            battery[x] = ""
             flag = 0
             break
     if flag:
@@ -204,7 +206,7 @@ def menu(battery):
                     logger("Indique el valor correcto", tipo = 0)
         elif res == "4":
             while(1):
-                res1 = input("Ingrese texto a agregar a la pila (dejar vacío para volver)\n>")
+                res1 = input("Ingrese texto a agregar a la pila (dejar vacío para volver)[Máximo 250 caracteres]\n>")
                 i = "Ingrese texto a agregar a la pila (dejar vacío para volver)\n>"
                 logger(i, tipo = -1)
                 logger(res1, tipo = 1)

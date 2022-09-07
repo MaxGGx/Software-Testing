@@ -1,0 +1,1678 @@
+
+####### NEW TEST 2022-09-06 #######
+
+[11:33:40 PM] Output: Bienvenido al editor de pila!
+
+[11:33:40 PM] Output: [Notificación] Archivo de pila creado
+
+[11:33:41 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:33:41 PM] Input: 4
+
+[11:33:44 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:33:44 PM] Input: Test1
+
+[11:33:44 PM] Output: Texto ' Test1 ' almacenado en espacio 0
+
+[11:33:44 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:33:45 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:33:45 PM] Input: 4
+
+[11:33:50 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:33:50 PM] Input: Test2
+
+[11:33:50 PM] Output: Texto ' Test2 ' almacenado en espacio 1
+
+[11:33:50 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:33:51 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:33:51 PM] Input: 4
+
+[11:33:54 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:33:54 PM] Input: Test3
+
+[11:33:54 PM] Output: Texto ' Test3 ' almacenado en espacio 2
+
+[11:33:54 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:33:55 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:33:55 PM] Input: 4
+
+[11:34:04 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:34:04 PM] Input: Test4
+
+[11:34:04 PM] Output: Texto ' Test4 ' almacenado en espacio 3
+
+[11:34:04 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:34:07 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:34:07 PM] Input: 4
+
+[11:34:11 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:34:11 PM] Input: Test5
+
+[11:34:11 PM] Output: Texto ' Test5 ' almacenado en espacio 4
+
+[11:34:11 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:34:12 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:34:12 PM] Input: 4
+
+[11:34:14 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:34:14 PM] Input: Test6
+
+[11:34:14 PM] Output: Texto ' Test6 ' almacenado en espacio 5
+
+[11:34:14 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:34:15 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:34:15 PM] Input: 4
+
+[11:34:18 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:34:18 PM] Input: Test7
+
+[11:34:18 PM] Output: Texto ' Test7 ' almacenado en espacio 6
+
+[11:34:18 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:34:20 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:34:20 PM] Input: 4
+
+[11:34:23 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:34:23 PM] Input: Test8
+
+[11:34:23 PM] Output: Texto ' Test8 ' almacenado en espacio 7
+
+[11:34:23 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:34:24 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:34:24 PM] Input: 4
+
+[11:34:26 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:34:26 PM] Input: Test9
+
+[11:34:26 PM] Output: Texto ' Test9 ' almacenado en espacio 8
+
+[11:34:26 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:34:27 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:34:27 PM] Input: 4
+
+[11:34:31 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:34:31 PM] Input: Test10
+
+[11:34:31 PM] Output: Texto ' Test10 ' almacenado en espacio 9
+
+[11:34:31 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:34:33 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:34:33 PM] Input: 4
+
+[11:34:36 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:34:36 PM] Input: Test11
+
+[11:34:45 PM] Output: Texto ' Test11 ' no ha podido ser añadido, pila esta completa, ¿Desea reemplazar el último espacio de la pila (9) con su nuevo texto?
+TEXTO A REEMPLAZAR:Test10
+1 - SI
+2 - NO
+>
+
+[11:34:45 PM] Input: 1
+
+[11:34:45 PM] Output: == OPERACION REALIZADA ==
+
+[11:34:45 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:34:56 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:34:56 PM] Input: 2
+
+[11:35:00 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:35:00 PM] Input: 9
+
+[11:35:00 PM] Output: El texto número 9 es: Test11 
+Con una cantidad de 6 caracteres
+
+[11:37:15 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:37:15 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:37:27 PM] Output: Bienvenido al editor de pila!
+
+[11:37:27 PM] Output: [Notificación] Archivo de pila creado
+
+[11:37:34 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:37:34 PM] Input: 4
+
+[11:37:36 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:37:36 PM] Input: Test1
+
+[11:37:36 PM] Output: Texto ' Test1 ' almacenado en espacio 0
+
+[11:37:36 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:37:37 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:37:37 PM] Input: 4
+
+[11:37:39 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:37:39 PM] Input: Test2
+
+[11:37:39 PM] Output: Texto ' Test2 ' almacenado en espacio 1
+
+[11:37:39 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:37:40 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:37:40 PM] Input: 4
+
+[11:37:44 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:37:44 PM] Input: Test3
+
+[11:37:44 PM] Output: Texto ' Test3 ' almacenado en espacio 2
+
+[11:37:44 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:37:45 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:37:45 PM] Input: 4
+
+[11:37:48 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:37:48 PM] Input: Test4
+
+[11:37:48 PM] Output: Texto ' Test4 ' almacenado en espacio 3
+
+[11:37:48 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:37:51 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:37:51 PM] Input: 4
+
+[11:37:53 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:37:53 PM] Input: Test5
+
+[11:37:53 PM] Output: Texto ' Test5 ' almacenado en espacio 4
+
+[11:37:53 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:37:54 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:37:54 PM] Input: 4
+
+[11:37:57 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:37:57 PM] Input: Test6
+
+[11:37:57 PM] Output: Texto ' Test6 ' almacenado en espacio 5
+
+[11:37:57 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:37:58 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:37:58 PM] Input: 4
+
+[11:38:00 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:38:00 PM] Input: Test7
+
+[11:38:00 PM] Output: Texto ' Test7 ' almacenado en espacio 6
+
+[11:38:00 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:38:02 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:38:02 PM] Input: 4
+
+[11:38:04 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:38:04 PM] Input: Test8
+
+[11:38:04 PM] Output: Texto ' Test8 ' almacenado en espacio 7
+
+[11:38:04 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:38:05 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:38:05 PM] Input: 4
+
+[11:38:07 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:38:07 PM] Input: Test9
+
+[11:38:07 PM] Output: Texto ' Test9 ' almacenado en espacio 8
+
+[11:38:07 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:38:09 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:38:09 PM] Input: 4
+
+[11:38:15 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:38:15 PM] Input: Test10
+
+[11:38:15 PM] Output: Texto ' Test10 ' almacenado en espacio 9
+
+[11:38:15 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:38:16 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:38:16 PM] Input: 4
+
+[11:38:20 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:38:20 PM] Input: Test11
+
+[11:38:24 PM] Output: Texto ' Test11 ' no ha podido ser añadido, pila esta completa, ¿Desea reemplazar el último espacio de la pila (9) con su nuevo texto?
+TEXTO A REEMPLAZAR:Test10
+1 - SI
+2 - NO
+>
+
+[11:38:24 PM] Input: 2
+
+[11:38:24 PM] Output: == OPERACIÓN CANCELADA ==
+
+[11:38:24 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:38:32 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:38:32 PM] Input: 2
+
+[11:38:33 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:38:33 PM] Input: 9
+
+[11:38:33 PM] Output: El texto número 9 es: Test10 
+Con una cantidad de 6 caracteres
+
+[11:39:31 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:39:31 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:39:46 PM] Output: Bienvenido al editor de pila!
+
+[11:39:46 PM] Output: [Notificación] Archivo de pila creado
+
+[11:39:50 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:39:50 PM] Input: 6
+
+[11:40:22 PM] Output: Bienvenido al editor de pila!
+
+[11:40:22 PM] Output: [Notificación] Pila recuperada
+
+[11:40:26 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:40:26 PM] Input: 2
+
+[11:40:28 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:40:28 PM] Input: 0
+
+[11:40:28 PM] Output: El texto número 0 es: T1 
+Con una cantidad de 2 caracteres
+
+[11:40:32 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:40:32 PM] Input: 2
+
+[11:40:33 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:40:33 PM] Input: 1
+
+[11:40:33 PM] Output: El texto número 1 es: T2 
+Con una cantidad de 2 caracteres
+
+[11:40:35 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:40:35 PM] Input: 2
+
+[11:40:40 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:40:40 PM] Input: 2
+
+[11:40:40 PM] Output: El texto número 2 es: T3 
+Con una cantidad de 2 caracteres
+
+[11:40:42 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:40:42 PM] Input: 2
+
+[11:40:43 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:40:43 PM] Input: 3
+
+[11:40:43 PM] Output: El texto número 3 es: T4 
+Con una cantidad de 2 caracteres
+
+[11:40:48 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:40:48 PM] Input: 2
+
+[11:40:50 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:40:50 PM] Input: 4
+
+[11:40:50 PM] Output: El texto número 4 es: T5 
+Con una cantidad de 2 caracteres
+
+[11:40:53 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:40:53 PM] Input: 2
+
+[11:40:54 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:40:54 PM] Input: 5
+
+[11:40:54 PM] Output: El texto número 5 es: T6 
+Con una cantidad de 2 caracteres
+
+[11:40:55 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:40:55 PM] Input: 2
+
+[11:40:58 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:40:58 PM] Input: 6
+
+[11:40:58 PM] Output: El texto número 6 es: T7 
+Con una cantidad de 2 caracteres
+
+[11:40:59 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:40:59 PM] Input: 2
+
+[11:41:01 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:41:01 PM] Input: 7
+
+[11:41:01 PM] Output: El texto número 7 es: T8 
+Con una cantidad de 2 caracteres
+
+[11:41:08 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:41:08 PM] Input: 2
+
+[11:41:12 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:41:12 PM] Input: 8
+
+[11:41:12 PM] Output: El texto número 8 es: T9 
+Con una cantidad de 2 caracteres
+
+[11:41:16 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:41:16 PM] Input: 2
+
+[11:41:18 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:41:18 PM] Input: 9
+
+[11:41:18 PM] Output: El texto número 9 es: T10 
+Con una cantidad de 3 caracteres
+
+[11:41:26 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:41:26 PM] Input: 2
+
+[11:41:29 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:41:29 PM] Input: 10
+
+[11:43:27 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:43:27 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:43:43 PM] Output: Bienvenido al editor de pila!
+
+[11:43:43 PM] Output: [Notificación] Archivo de pila creado
+
+[11:43:48 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:43:48 PM] Input: 6
+
+[11:44:03 PM] Output: Bienvenido al editor de pila!
+
+[11:44:03 PM] Output: [Notificación] Archivo de pila creado
+
+[11:45:30 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:45:30 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:46:08 PM] Output: Bienvenido al editor de pila!
+
+[11:46:08 PM] Output: [Notificación] Archivo de pila creado
+
+[11:46:11 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:46:11 PM] Input: 6
+
+[11:46:32 PM] Output: Bienvenido al editor de pila!
+
+[11:46:32 PM] Output: [Notificación] Pila recuperada
+
+[11:46:39 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:46:39 PM] Input: 2
+
+[11:46:41 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:46:41 PM] Input: 0
+
+[11:46:41 PM] Output: El texto número 0 es: T1 
+Con una cantidad de 2 caracteres
+
+[11:46:45 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:46:45 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:48:28 PM] Output: Bienvenido al editor de pila!
+
+[11:48:28 PM] Output: [Notificación] Archivo de pila creado
+
+[11:48:37 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:48:37 PM] Input: 4
+
+[11:48:39 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:48:39 PM] Input: T1
+
+[11:48:39 PM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[11:48:39 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:48:41 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:48:41 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:50:11 PM] Output: Bienvenido al editor de pila!
+
+[11:50:11 PM] Output: [Notificación] Archivo de pila creado
+
+[11:50:13 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:50:13 PM] Input: 4
+
+[11:50:22 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:50:22 PM] Input: TÉST
+
+[11:50:22 PM] Output: Texto ' TST ' almacenado en espacio 0
+
+[11:50:22 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:50:26 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:50:26 PM] Input: 2
+
+[11:50:27 PM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[11:50:27 PM] Input: 0
+
+[11:50:27 PM] Output: El texto número 0 es: TST 
+Con una cantidad de 3 caracteres
+
+[11:50:48 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:50:48 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:51:35 PM] Output: Bienvenido al editor de pila!
+
+[11:51:35 PM] Output: [Notificación] Archivo de pila creado
+
+[11:51:40 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:51:40 PM] Input: 4
+
+[11:51:42 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:51:42 PM] Input: T1
+
+[11:51:42 PM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[11:51:42 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:51:46 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:51:46 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:54:21 PM] Output: Bienvenido al editor de pila!
+
+[11:54:21 PM] Output: [Notificación] Archivo de pila creado
+
+[11:54:26 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:54:26 PM] Input: 4
+
+[11:54:28 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:54:28 PM] Input: T1
+
+[11:54:28 PM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[11:54:28 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:54:30 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:54:30 PM] Input: 4
+
+[11:54:33 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:54:33 PM] Input: T11
+
+[11:54:33 PM] Output: Texto ' T11 ' almacenado en espacio 1
+
+[11:54:33 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:54:38 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:54:38 PM] Input: 1
+
+[11:54:38 PM] Output: Texto de MAYOR tamaño ubicado en espacio: 1 
+Con 3 caracteres
+ El texto es: T11
+
+[11:54:38 PM] Output: 
+Texto de MENOR tamaño ubicado en espacio: 0 
+Con 2 caracteres
+ El texto es: T1
+
+[11:56:19 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:56:19 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:57:00 PM] Output: Bienvenido al editor de pila!
+
+[11:57:00 PM] Output: [Notificación] Archivo de pila creado
+
+[11:57:02 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:57:02 PM] Input: 4
+
+[11:57:06 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:57:06 PM] Input: T1
+
+[11:57:06 PM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[11:57:06 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:57:08 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:57:08 PM] Input: 4
+
+[11:57:10 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:57:10 PM] Input: T2
+
+[11:57:10 PM] Output: Texto ' T2 ' almacenado en espacio 1
+
+[11:57:10 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:57:18 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:57:18 PM] Input: 1
+
+[11:57:18 PM] Output: Texto de MAYOR tamaño ubicado en espacio: 1 
+Con 2 caracteres
+ El texto es: T2
+
+[11:57:18 PM] Output: 
+Texto de MENOR tamaño ubicado en espacio: 0 
+Con 2 caracteres
+ El texto es: T1
+
+[11:57:34 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:57:34 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:58:17 PM] Output: Bienvenido al editor de pila!
+
+[11:58:17 PM] Output: [Notificación] Archivo de pila creado
+
+[11:58:20 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:58:20 PM] Input: 1
+
+[11:58:20 PM] Output: Pila vacía, ingrese un texto para realizar esta función
+
+[11:58:49 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:58:49 PM] Input: 6
+
+####### END TEST 2022-09-06#######
+
+####### NEW TEST 2022-09-06 #######
+
+[11:59:43 PM] Output: Bienvenido al editor de pila!
+
+[11:59:43 PM] Output: [Notificación] Archivo de pila creado
+
+[11:59:45 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:59:45 PM] Input: 4
+
+[11:59:47 PM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[11:59:47 PM] Input: T1
+
+[11:59:47 PM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[11:59:47 PM] Output: [Notificación] Pila almacenada en archivo
+
+[11:59:49 PM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[11:59:49 PM] Input: 1
+
+[11:59:49 PM] Output: Texto de MAYOR tamaño ubicado en espacio: 0 
+Con 2 caracteres
+ El texto es: T1
+
+[11:59:49 PM] Output: 
+Texto de MENOR tamaño ubicado en espacio: 0 
+Con 2 caracteres
+ El texto es: T1
+
+[12:00:02 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:00:02 AM] Input: 6
+
+####### END TEST 2022-09-07#######
+
+####### NEW TEST 2022-09-07 #######
+
+[12:00:52 AM] Output: Bienvenido al editor de pila!
+
+[12:00:52 AM] Output: [Notificación] Archivo de pila creado
+
+[12:00:56 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:00:56 AM] Input: 4
+
+[12:00:58 AM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[12:00:58 AM] Input: T1
+
+[12:00:58 AM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[12:00:58 AM] Output: [Notificación] Pila almacenada en archivo
+
+[12:01:01 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:01:01 AM] Input: 2
+
+[12:01:03 AM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[12:01:03 AM] Input: 0
+
+[12:01:03 AM] Output: El texto número 0 es: T1 
+Con una cantidad de 2 caracteres
+
+[12:01:37 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:01:37 AM] Input: 6
+
+####### END TEST 2022-09-07#######
+
+####### NEW TEST 2022-09-07 #######
+
+[12:05:51 AM] Output: Bienvenido al editor de pila!
+
+[12:05:51 AM] Output: [Notificación] Archivo de pila creado
+
+[12:05:59 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:05:59 AM] Input: 2
+
+[12:06:00 AM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[12:06:00 AM] Input: 0
+
+[12:06:00 AM] Output: El texto número 0 está Vacío
+No tiene caracteres
+
+[12:06:30 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:06:30 AM] Input: 6
+
+####### END TEST 2022-09-07#######
+
+####### NEW TEST 2022-09-07 #######
+
+[12:07:04 AM] Output: Bienvenido al editor de pila!
+
+[12:07:04 AM] Output: [Notificación] Archivo de pila creado
+
+[12:07:07 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:07:07 AM] Input: 4
+
+[12:07:10 AM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[12:07:10 AM] Input: T1
+
+[12:07:10 AM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[12:07:10 AM] Output: [Notificación] Pila almacenada en archivo
+
+[12:07:12 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:07:12 AM] Input: 4
+
+[12:07:16 AM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[12:07:16 AM] Input: T11
+
+[12:07:16 AM] Output: Texto ' T11 ' almacenado en espacio 1
+
+[12:07:16 AM] Output: [Notificación] Pila almacenada en archivo
+
+[12:07:25 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:07:25 AM] Input: 3
+
+[12:07:26 AM] Output: Ingrese posición 1 para comparar de la pila (0-9)
+10- Volver
+>
+
+[12:07:26 AM] Input: 0
+
+[12:07:27 AM] Output: Ingrese posición 2 para comparar de la pila (0-9)
+10- Volver
+>
+
+[12:07:27 AM] Input: 1
+
+[12:07:27 AM] Output: Texto 1 es mayor que el texto 0 en: 1 caracteres
+
+[12:07:58 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:07:58 AM] Input: 6
+
+####### END TEST 2022-09-07#######
+
+####### NEW TEST 2022-09-07 #######
+
+[12:08:31 AM] Output: Bienvenido al editor de pila!
+
+[12:08:31 AM] Output: [Notificación] Archivo de pila creado
+
+[12:08:33 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:08:33 AM] Input: 4
+
+[12:08:38 AM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[12:08:38 AM] Input: T1
+
+[12:08:38 AM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[12:08:38 AM] Output: [Notificación] Pila almacenada en archivo
+
+[12:08:41 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:08:41 AM] Input: 3
+
+[12:08:45 AM] Output: Ingrese posición 1 para comparar de la pila (0-9)
+10- Volver
+>
+
+[12:08:45 AM] Input: 0
+
+[12:08:45 AM] Output: Ingrese posición 2 para comparar de la pila (0-9)
+10- Volver
+>
+
+[12:08:45 AM] Input: 1
+
+[12:08:45 AM] Output: Texto 0 es mayor que el texto 1 en: 2 caracteres
+
+[12:09:35 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:09:35 AM] Input: 6
+
+####### END TEST 2022-09-07#######
+
+####### NEW TEST 2022-09-07 #######
+
+[12:10:14 AM] Output: Bienvenido al editor de pila!
+
+[12:10:14 AM] Output: [Notificación] Archivo de pila creado
+
+[12:10:16 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:10:16 AM] Input: 4
+
+[12:10:18 AM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[12:10:18 AM] Input: T1
+
+[12:10:18 AM] Output: Texto ' T1 ' almacenado en espacio 0
+
+[12:10:18 AM] Output: [Notificación] Pila almacenada en archivo
+
+[12:10:20 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:10:20 AM] Input: 4
+
+[12:10:21 AM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[12:10:21 AM] Input: T1
+
+[12:10:21 AM] Output: Texto ' T1 ' almacenado en espacio 1
+
+[12:10:21 AM] Output: [Notificación] Pila almacenada en archivo
+
+[12:10:24 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:10:24 AM] Input: 3
+
+[12:10:26 AM] Output: Ingrese posición 1 para comparar de la pila (0-9)
+10- Volver
+>
+
+[12:10:26 AM] Input: 0
+
+[12:10:27 AM] Output: Ingrese posición 2 para comparar de la pila (0-9)
+10- Volver
+>
+
+[12:10:27 AM] Input: 1
+
+[12:10:27 AM] Output: Texto 0 y texto 1 son iguales en tamaño con 2 caracteres
+
+[12:10:53 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:10:53 AM] Input: 6
+
+####### END TEST 2022-09-07#######
+
+####### NEW TEST 2022-09-07 #######
+
+[12:11:28 AM] Output: Bienvenido al editor de pila!
+
+[12:11:28 AM] Output: [Notificación] Archivo de pila creado
+
+[12:11:31 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:11:31 AM] Input: 8
+
+[12:11:46 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:11:46 AM] Input: 6
+
+####### END TEST 2022-09-07#######
+
+####### NEW TEST 2022-09-07 #######
+
+[12:17:08 AM] Output: Bienvenido al editor de pila!
+
+[12:17:08 AM] Output: [Notificación] Archivo de pila creado
+
+[12:17:27 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:17:27 AM] Input: 4
+
+[12:17:30 AM] Output: Ingrese texto a agregar a la pila (dejar vacío para volver)
+>
+
+[12:17:30 AM] Input: Lorem ipsum dolor sit amet  consectetuer adipiscing elit  Aenean commodo ligula eget dolor  Aenean massa  Cum sociis natoque penatibus et magnis dis parturient montes  nascetur ridiculus mus  Donec quam felis  ultricies nec  pellentesque eu  pretium 123455
+
+[12:17:30 AM] Output: Texto ' Lorem ipsum dolor sit amet  consectetuer adipiscing elit  Aenean commodo ligula eget dolor  Aenean massa  Cum sociis natoque penatibus et magnis dis parturient montes  nascetur ridiculus mus  Donec quam felis  ultricies nec  pellentesque eu  pretium  ' almacenado en espacio 0
+
+[12:17:30 AM] Output: [Notificación] Pila almacenada en archivo
+
+[12:17:33 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:17:33 AM] Input: 2
+
+[12:17:34 AM] Output: Indique posición a ver de la pila (0-9)
+10- Volver
+>
+
+[12:17:34 AM] Input: 0
+
+[12:17:34 AM] Output: El texto número 0 es: Lorem ipsum dolor sit amet  consectetuer adipiscing elit  Aenean commodo ligula eget dolor  Aenean massa  Cum sociis natoque penatibus et magnis dis parturient montes  nascetur ridiculus mus  Donec quam felis  ultricies nec  pellentesque eu  pretium  
+Con una cantidad de 250 caracteres
+
+[12:18:12 AM] Output: Seleccione operación a realizar:
+1- Ver texto más largo y más corto
+2- Imprimir un texto de la pila
+3- Comparar tamaños de textos en pila
+4- Agregar un texto a la pila
+5- Quitar último texto de la pila
+6- Salir
+>
+
+[12:18:12 AM] Input: 6
+
+####### END TEST 2022-09-07#######
