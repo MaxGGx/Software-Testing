@@ -22,7 +22,7 @@ Just clone the repo and then start the program by executing:
 
 ## Authors ✒️
 
-* **Iñaki Oyarzun** - *Designer & progrmmer* - [MaxGGx](https://github.com/MaxGGx)
+* **Iñaki Oyarzun** - *Designer & programmer* - [MaxGGx](https://github.com/MaxGGx)
 
 ## How to Contribute ➕
 
