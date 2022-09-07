@@ -11,7 +11,7 @@ This repository stores the process and final results.
 
 ## Instalation ⚙️
 
-**I recommend reading before the 2 documents included to understand the context behind the python program**
+**Before start, I recommend reading the 2 documents included to understand the context behind the python program**
 
 Just clone the repo and then start the program by executing:
   py PDS1.py
@@ -22,7 +22,7 @@ Just clone the repo and then start the program by executing:
 
 ## Authors ✒️
 
-* **Iñaki Oyarzun** - *Designer & progrmmer* - [MaxGGx](https://github.com/MaxGGx)
+* **Iñaki Oyarzun** - *Designer & programmer* - [MaxGGx](https://github.com/MaxGGx)
 
 ## How to Contribute ➕
 
