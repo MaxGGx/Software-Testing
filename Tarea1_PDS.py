@@ -12,7 +12,7 @@ import datetime
 
 #Logger para almacenamiento de entradas y salidas por consola
 def logger(mensaje, tipo, reset = 0):
-    texto = open("[DEBUG]_Logs.txt","a")
+    texto = open("[DEBUG]_Logs_PruebasCruzadas.txt","a")
     if reset == 1:
         texto.write("\n####### NEW TEST "+str(datetime.date.today())+" #######\n")
     elif reset == 2:
