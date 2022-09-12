@@ -14,7 +14,9 @@ This repository stores the process and final results.
 **Before start, I recommend reading the 2 documents included to understand the context behind the python program**
 
 Just clone the repo and then start the program by executing:
-  py PDS1.py
+  py Tarea1_PDS1.py
+  
+There are some info about the tests and the changes made to the program, the pdf has some info about the modifications made and about the xlsx file added.
 
 ## Built with 🛠️
 
